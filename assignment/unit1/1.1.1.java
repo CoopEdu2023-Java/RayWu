@@ -5,6 +5,6 @@ class main {
         return a == b;
     }
     public static void main(String[] args) {
-        System.out.println(main('b', 'a'));
+        System.out.println(main('b', 'b'));
     }
 }
