@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a65a8b90-48ec-4f2c-8c83-8fee956e1efb" name="Changes" comment="commit">
-      <change beforePath="$PROJECT_DIR$/assignment/unit1/1.1.1.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment/unit1/1.1.1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handout/handout2.0.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handout/handout2.1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.codeium.enabled": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "handout",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -61,6 +62,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dolph\Desktop\java2\handout" />
       <recent name="C:\Users\dolph\Desktop\java2\unit1" />
     </key>
   </component>
