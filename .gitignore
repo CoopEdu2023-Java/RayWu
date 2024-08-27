@@ -28,7 +28,6 @@ target/
 /nbproject/private/
 /nbbuild/
 /dist/
-/assignment
 /nbdist/
 /.nb-gradle/
 build/
