@@ -1,7 +1,7 @@
 class Demo {
     private String name = "person";
     private int age = 20;
-    private String country = "china";
+    private String country = "country";
 
     public String getName() {
         return this.name;
@@ -13,8 +13,13 @@ class Demo {
         return this.country;
     }
 
-
-    public void setX(int x) {
-        this.x = x;
+    public void setName(String name) {
+        this.name = name;
+    }
+    public void setAge(Integer age) {
+        this.age = age;
+    }
+    public void setCountry(String age) {
+        this.country = country;
     }
 }
