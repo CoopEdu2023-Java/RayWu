@@ -9,12 +9,14 @@ target/
 .idea/jarRepositories.xml
 .idea/compiler.xml
 .idea/libraries/
+
 *.iws
 *.iml
 *.ipr
 *.class
 
-
+/assignment/unit1
+/handout
 ### Eclipse ###
 .apt_generated
 .classpath
