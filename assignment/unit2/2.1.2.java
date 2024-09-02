@@ -1,8 +1,8 @@
-class Rectangle {
+class Rectangle2 {
     private int length = 2;
     private int width = 2;
 
-    public Rectangle(int length, int width) {
+    public Rectangle2(int length, int width) {
         this.length = length;
         this.width = width;
     }
