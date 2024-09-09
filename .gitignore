@@ -14,7 +14,8 @@ target/
 *.ipr
 *.class
 
-
+/assignment/unit1
+/assignment/unit2
 ### Eclipse ###
 .apt_generated
 .classpath
