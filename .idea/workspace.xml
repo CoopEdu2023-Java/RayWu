@@ -9,7 +9,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2024_8_26_16_29__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2024_8_27_17_55_[Changes]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2024_8_27_17_55__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handout/handout3.2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/handout/handout3.2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.1.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Test.executor": "Run",
@@ -51,19 +54,27 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.codeium.enabled": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "handout",
+    "jdk.selected.JAVA_MODULE": "21",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/dolph/Desktop/java2/handout",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/dolph/Desktop/java2/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dolph\Desktop\java2\handout" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\dolph\Desktop\java2\handout" />
       <recent name="C:\Users\dolph\Desktop\java2\handout\.ipynb_checkpoints" />
@@ -89,12 +100,9 @@
       <workItem from="1724379358969" duration="2660000" />
       <workItem from="1725256464036" duration="1394000" />
       <workItem from="1725542326643" duration="2000" />
-      <workItem from="1726459616446" duration="1000" />
-      <workItem from="1726468323532" duration="3000" />
-      <workItem from="1726569644629" duration="2000" />
-      <workItem from="1726647409058" duration="3000" />
-      <workItem from="1726803154975" duration="4000" />
-      <workItem from="1727242644604" duration="476000" />
+      <workItem from="1727244167915" duration="1265000" />
+      <workItem from="1727246968405" duration="375000" />
+      <workItem from="1728885844978" duration="1063000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -120,15 +128,7 @@
       <option name="project" value="LOCAL" />
       <updated>1726055034473</updated>
     </task>
-    <task id="LOCAL-00004" summary="Added handout 3.1 and 3.2">
-      <option name="closed" value="true" />
-      <created>1726123652476</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1726123652476</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,7 +137,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="workspace.xml" />
     <MESSAGE value="commit" />
-    <MESSAGE value="Added handout 3.1 and 3.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added handout 3.1 and 3.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
