@@ -3,13 +3,13 @@ class IsAVLtree {
         int layersLeft = 0;
         int layersRight = 0;
         int x = 2;
-        for (int i = 1; i < root.length; i += x + 1) {
+        for (int i = 2; i < root.length; i += x + 1) {
             if (root[i] == 0) {
                 i += x + 1;
             }
             layersLeft ++;
         }
-        for (int i = 2; i < root.length; i += x + 1) {
+        for (int i = 1; i < root.length; i += x + 1) {
             if (root[i] == 0) {
                 i += x + 1;
             }
