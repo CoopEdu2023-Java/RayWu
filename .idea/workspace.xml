@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a65a8b90-48ec-4f2c-8c83-8fee956e1efb" name="Changes" comment="Added assignment 3.2">
+    <list default="true" id="a65a8b90-48ec-4f2c-8c83-8fee956e1efb" name="Changes" comment="Updated assignment 3.2">
+      <change afterPath="$PROJECT_DIR$/handout/.ipynb_checkpoints/demo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2024_8_26_15_18__Changes_1.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2024_8_26_16_29__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2024_8_27_17_55_[Changes]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2024_8_27_17_55__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handout/handout3.2(2).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/handout/handout3.2(2).ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +104,8 @@
       <workItem from="1727244167915" duration="1265000" />
       <workItem from="1727246968405" duration="375000" />
       <workItem from="1728885844978" duration="1063000" />
+      <workItem from="1729324186997" duration="2776000" />
+      <workItem from="1729334671667" duration="556000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
