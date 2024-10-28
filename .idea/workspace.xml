@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a65a8b90-48ec-4f2c-8c83-8fee956e1efb" name="Changes" comment="added assignment 3.2.11-12">
-      <change afterPath="$PROJECT_DIR$/assignment/unit3/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/unit3/Operations.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,6 +105,8 @@
       <workItem from="1729496528266" duration="188000" />
       <workItem from="1729681005588" duration="6000" />
       <workItem from="1729681912632" duration="3982000" />
+      <workItem from="1730080070724" duration="1004000" />
+      <workItem from="1730086025501" duration="398000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
