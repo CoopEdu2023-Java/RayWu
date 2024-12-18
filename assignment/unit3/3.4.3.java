@@ -1,4 +1,4 @@
-class Tree {
+class TreeFind {
     public static void bubbleSort(int[] arr) {
         // Get the length of the array
         int n = arr.length;

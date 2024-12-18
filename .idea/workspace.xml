@@ -5,12 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a65a8b90-48ec-4f2c-8c83-8fee956e1efb" name="Changes" comment="added assignment 3.4">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2024_8_26_15_18__Changes_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2024_8_26_15_18__Changes_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2024_8_26_16_29__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2024_8_26_16_29__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2024_8_27_17_55__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2024_8_27_17_55__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/unit3/3.1.10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/unit3/3.1.11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/unit3/3.1.12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/unit3/3.1.13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/unit3/3.1.14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/unit3/3.1.15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/unit3/3.1.16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/unit3/3.1.9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/unit4/4.2.3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/unit4/4.3.3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/unit4/4.4.1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/unit4/GuessingGame.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment/unit3/3.1.6.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment/unit3/3.1.6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment/unit3/3.1.7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment/unit3/3.2.6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment/unit3/3.4.3.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment/unit3/3.4.3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,54 +57,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.1.executor": "Run",
-    "Application.BinarySearch.executor": "Run",
-    "Application.CheckAnagram.executor": "Run",
-    "Application.IsAVLtree.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.codeium.enabled": "true",
-    "git-widget-placeholder": "assignment/unit3",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/dolph/Desktop/java2/src/main/java/org/example/Main.java",
-    "settings.editor.selected.configurable": "com.codeium.AppSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckAnagram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Find.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IsAVLtree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JarReflection.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SleepSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.cracker.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;JAR Application.GuessingGame.jar.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;assignment/unit4&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/dolph/Desktop/java2/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.codeium.AppSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dolph\Desktop\java2\assignment\unit4" />
       <recent name="C:\Users\dolph\Desktop\java2\handout" />
       <recent name="C:\Users\dolph\Desktop\java2\unit1" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="IsAVLtree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IsAVLtree" />
-      <module name="java2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IsAVLtree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IsAVLtree" />
-      <module name="java2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="GuessingGame.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/assignment/unit4/GuessingGame.jar" />
+      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IsAVLtree" />
+        <item itemvalue="JAR Application.GuessingGame.jar" />
       </list>
     </recent_temporary>
   </component>
@@ -119,6 +127,12 @@
       <workItem from="1725457773918" duration="1000" />
       <workItem from="1725514878938" duration="61000" />
       <workItem from="1725788567840" duration="2025000" />
+      <workItem from="1730960252646" duration="2318000" />
+      <workItem from="1731908021267" duration="3808000" />
+      <workItem from="1731912110608" duration="1102000" />
+      <workItem from="1734318865495" duration="73000" />
+      <workItem from="1734507037969" duration="26000" />
+      <workItem from="1734517159021" duration="946000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
