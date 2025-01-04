@@ -1,34 +1,33 @@
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 class SleepSort {
-    public static void main(String[] args) throws InterruptedException{
-        List<Integer> numbers = new ArrayList<>(Arrays.asList(5, 2, 9, 1, 7));
-        numbers = sort(numbers);
-        System.out.println(numbers);
-
+    public static void main(String[] args) {
+        int[] numbers = {5, 2, 8, 1, 9};
+        sort(numbers);
     }
-    public static List<Integer> sort(List<Integer> array) throws InterruptedException {
-        List<Integer> array2 = new ArrayList<>();
-        List<Thread> threads = new ArrayList<>();
-        for(int i : array) {
-            Thread t = new Thread(() -> {
+
+    public static void sort(int[] numbers) {
+        Thread[] threads = new Thread[numbers.length];
+
+        for (int i = 0; i < numbers.length; i++) {
+            final int num = numbers[i];
+            threads[i] = new Thread(() -> {
                 try {
-                    Thread.sleep(i);
+                    Thread.sleep(num * 100); // sleep for num * 100 milliseconds
+                    System.out.println(num);
                 } catch (InterruptedException e) {
-                    e.printStackTrace();
+                    Thread.currentThread().interrupt();
                 }
-                array2.add(array.get(i));
             });
-            t.start();
-            threads.add(t);
+            threads[i].start();
         }
-        for (Thread t : threads) {
-            t.join();
+
+        for (Thread thread : threads) {
+            try {
+                thread.join();
+            } catch (InterruptedException e) {
+                Thread.currentThread().interrupt();
+            }
         }
-        return array2;
     }
-
 }
-

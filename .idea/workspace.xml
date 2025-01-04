@@ -4,22 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a65a8b90-48ec-4f2c-8c83-8fee956e1efb" name="Changes" comment="added assignment 3.4">
-      <change afterPath="$PROJECT_DIR$/assignment/unit3/3.1.10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment/unit3/3.1.11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment/unit3/3.1.12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment/unit3/3.1.13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment/unit3/3.1.14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment/unit3/3.1.15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment/unit3/3.1.16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment/unit3/3.1.9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment/unit4/4.2.3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment/unit4/4.3.3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment/unit4/4.4.1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment/unit4/GuessingGame.jar" afterDir="false" />
+    <list default="true" id="a65a8b90-48ec-4f2c-8c83-8fee956e1efb" name="Changes" comment="added assignment 3.1">
+      <change afterPath="$PROJECT_DIR$/assignment/unit3/3.3.1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/unit3/3.3.2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/unit3/3.3.3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/unit4/4.2.1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/unit4/4.2.2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/unit4/4.2.4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/unit4/4.2.5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/unit4/4.2.6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/unit4/4.2.7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/unit4/4.2.8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/unit4/4.2.9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/unit4/4.3.1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/unit4/4.3.2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment/unit3/3.2.6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment/unit3/3.4.3.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment/unit3/3.4.3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment/unit4/4.2.3.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment/unit4/4.2.3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment/unit4/4.3.3.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment/unit4/4.3.3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +133,10 @@
       <workItem from="1731912110608" duration="1102000" />
       <workItem from="1734318865495" duration="73000" />
       <workItem from="1734507037969" duration="26000" />
-      <workItem from="1734517159021" duration="946000" />
+      <workItem from="1734517159021" duration="3423000" />
+      <workItem from="1734576524074" duration="123000" />
+      <workItem from="1735819862409" duration="1942000" />
+      <workItem from="1735985043293" duration="1113000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -174,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730297849995</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added assignment 3.1">
+      <option name="closed" value="true" />
+      <created>1734518500863</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1734518500863</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +196,7 @@
     <MESSAGE value="commit" />
     <MESSAGE value="Updated assignment 3.2" />
     <MESSAGE value="added assignment 3.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="added assignment 3.4" />
+    <MESSAGE value="added assignment 3.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="added assignment 3.1" />
   </component>
 </project>

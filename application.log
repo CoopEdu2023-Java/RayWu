@@ -1,0 +1,12 @@
+10月 31, 2024 3:07:14 下午 LoggerExample main
+信息: This is an info message.
+10月 31, 2024 3:07:14 下午 LoggerExample main
+警告: This is a warning message.
+10月 31, 2024 3:07:14 下午 LoggerExample main
+严重: This is a severe message.
+10月 31, 2024 3:07:36 下午 LoggerExample main
+信息: This is an info message.
+10月 31, 2024 3:07:36 下午 LoggerExample main
+警告: This is a warning message.
+10月 31, 2024 3:07:36 下午 LoggerExample main
+严重: This is a severe message.
